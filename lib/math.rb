@@ -34,6 +34,7 @@ def modulo(num1, num2)
   num1 = 34
   num2 = 5
   puts num1.remainder(num2) 
+  remainder
 end
 
 def square_root(num)
