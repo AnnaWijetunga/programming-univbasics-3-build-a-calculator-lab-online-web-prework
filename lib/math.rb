@@ -33,6 +33,8 @@ end
 def modulo(num1, num2)
   num1 = 34
   num2 = 5
+  num3 = 
+  num4 =
   puts num1.remainder(num2) 
   puts num3.remainder(num4) 
 end
